@@ -1,6 +1,6 @@
 
 public class Test {
 	static void main(String[ ] args)
-	   { System.out.println("Bienvenue à l'INPT !");
+	   { System.out.println("On va tester le rebase !");
 	    }
 }
